@@ -23,6 +23,168 @@ A simple and responsive weather application built with HTML, CSS, and JavaScript
 
 ## 🚀 How to Use
 
-1. Clone the Repository  
-```bash
+1. Clone the Repository
+2. Open the Project
+
+- Navigate to the folder where you cloned the repository
+
+- Open index.html in your browser
+
+3.Search for a City
+
+- Enter a city name in the search bar
+
+- View live weather details instantly
+
+🔑 API Key Setup
+- This app uses the OpenWeatherMap API.
+
+ - Get your free API key by signing up here: OpenWeatherMap API.
+
+- Open the script.js file
+
+- Replace YOUR_API_KEY with your actual API key.
+- THANK YOU 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 git clone https://github.com/your-username/weather-app-javascript.git
