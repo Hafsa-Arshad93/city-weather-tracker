@@ -46,7 +46,6 @@ A simple and responsive weather application built with HTML, CSS, and JavaScript
 
 - Replace YOUR_API_KEY with your actual API key.
 
-- ```bash
-git clone https://github.com/Hafsa-Arshad93/city-weather-tracker.git
+- ```bash git clone https://github.com/Hafsa-Arshad93/city-weather-tracker.git
 - THANK YOU
 
