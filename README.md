@@ -24,8 +24,7 @@ A simple and responsive weather application built with HTML, CSS, and JavaScript
 ## 🚀 How to Use
 
 1. Clone the Repository  
-```bash
-git clone https://github.com/Hafsa-Arshad93/city-weather-tracker.git
+
 2. Open the Project
 
 - Navigate to the folder where you cloned the repository
@@ -46,5 +45,8 @@ git clone https://github.com/Hafsa-Arshad93/city-weather-tracker.git
 - Open the script.js file
 
 - Replace YOUR_API_KEY with your actual API key.
+
+- ```bash
+git clone https://github.com/Hafsa-Arshad93/city-weather-tracker.git
 - THANK YOU
 
