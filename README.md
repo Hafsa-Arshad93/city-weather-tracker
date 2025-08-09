@@ -44,5 +44,10 @@ A simple and responsive weather application built with HTML, CSS, and JavaScript
 - Open the script.js file
 
 - Replace YOUR_API_KEY with your actual API key.
-- THANK YOU 
+- THANK YOU
+
+
+
+
+
 git clone https://github.com/Hafsa-Arshad93/city-weather-tracker
